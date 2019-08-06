@@ -1,0 +1,35 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.container{
+  margin: auto;
+  background-color:aqua;
+  width: 60%;
+  text-align: center;
+  border-radius: 10px
+}
+
+
+.box{
+  display: inline-block;
+  width: 5.8%;
+  height: 2em;
+  margin: 2px;
+  background-color:pink;
+  border-radius: 5px;
+}
+
+#box1 {
+  margin-top: 8px;
+}
+
+.boxNewColor {
+  background-color:green;
+}
